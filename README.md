@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/umarqazii](https://github.com/umarqazii)
+- 👨‍💻 All of my projects are available at [https://github.com/umarqazii?tab=repositories](https://github.com/umarqazii?tab=repositories)
 
 - 📫 How to reach me **umarqazii983@gmail.com**
 
