@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar Qazi</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-- 🔭 I’m currently working on [MindSight](https://github.com/umarqazii/Final-Year-Project)
+- 🔭 I’m currently working on [CookBook](https://github.com/umarqazii/Cook-Book)
 
 - 👨‍💻 All of my projects are available at **https://github.com/umarqazii?tab=repositories**
 
