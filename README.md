@@ -23,3 +23,5 @@
 
 ![umarqazii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarqazii&theme=vue-dark&hide_border=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=umarqazii&theme=onedark)](https://github.com/umarqazii/github-profile-trophy)
+
