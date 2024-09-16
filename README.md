@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Umar Qazi</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-- [Portfolio](https://portfolio-website-drab-eta.vercel.app)
+- 📂 My [Portfolio](https://portfolio-website-drab-eta.vercel.app) Website
 
 - 🔭 I’m currently working on [CookBook](https://github.com/umarqazii/Cook-Book)
 
-- 👨‍💻 All of my projects are available at **https://github.com/umarqazii?tab=repositories**
+- 👨‍💻 All of my projects are available in [Repositories](https://github.com/umarqazii?tab=repositories)
 
 - 👯 I’m looking to collaborate on [Crypto App](https://github.com/umarqazii/Crypto-Tools)
-
-- 🤝 I’m looking for help with **☝️**
 
 - 📫 How to reach me **umarqazii983@gmail.com**
 
