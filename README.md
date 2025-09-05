@@ -19,6 +19,5 @@
 <h3></h3>
 
 ![umarqazii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarqazii&theme=vue-dark&hide_border=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=umarqazii&theme=onedark)](https://github.com/umarqazii/github-profile-trophy)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarqazii&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
